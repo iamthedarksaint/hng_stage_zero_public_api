@@ -5,7 +5,7 @@ This is a simple public API built with FastAPI that returns basic information in
 ### Setup Instructions
 
 -CLone the repositiory 
-git clone `https://github.com/Malik001-G/Stage-Zero-Public_Api`
+git clone `https://github.com/iamthedarksaint/hng_stage_zero_public_api`
 
 -Install Dependencies
 pip install -r requirements.txt
@@ -29,8 +29,8 @@ uvicorn main:app --reload
 ### Response Format
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "bojzino128@example.com",
   "current_datetime": "2025-01-30T09:30:00Z", 
-  "github_url": "https://github.com/Malik001-G/Stage-Zero-Public_Api"
+  "github_url": "https://github.com/iamthedarksaint/hng_stage_zero_public_api"
 }
 
