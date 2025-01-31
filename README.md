@@ -19,11 +19,11 @@ uvicorn main:app --reload
 
 
 ## API Documentation
-- [API Docs](https://stage-zero-public-api.vercel.app/docs)
+- [API Docs](https://hng-stage-zero-public-api.vercel.app/docs)
 
 ### Endpoint
 
-- **URL**: `https://stage-zero-public-api.vercel.app/`
+- **URL**: `https://hng-stage-zero-public-api.vercel.app/`
 - **Method**: `GET`
 
 ### Response Format

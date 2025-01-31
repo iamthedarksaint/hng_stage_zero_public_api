@@ -23,9 +23,9 @@ def getinfo():
     formatted_time = current_time.isoformat(timespec="seconds").replace("+00:00", 'Z')
 
     data = {
-        "email": "Adisamalikng0@gmail.com",
+        "email": "Bojzino128@gmail.com",
         "current_datetime": formatted_time,
-        "github_url": "https://github.com/Malik001-G/Stage-Zero-Public_Api"
+        "github_url": "https://github.com/iamthedarksaint/hng_stage_zero_public_api"
     }
 
     cache["info"] = data
